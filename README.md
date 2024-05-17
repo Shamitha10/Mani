@@ -1,0 +1,2 @@
+# Mani
+git set up
